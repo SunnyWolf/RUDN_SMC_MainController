@@ -11,4 +11,6 @@ build
 *.creator
 *.creator.user
 *.files
-
+*.includes
+*.ioc
+*.mxproject
