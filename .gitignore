@@ -1,0 +1,14 @@
+build
+*.lst
+*.o
+*.d
+*.map
+*.elf
+*.bin
+*.hex
+
+*.config
+*.creator
+*.creator.user
+*.files
+
