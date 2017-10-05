@@ -1,8 +1,7 @@
 SMC_RUDN_MainController firmware
 ================================
 
-This project contains firmware for a main controller of RUDN's ebike. 
-This con$
+This project contains firmware for a main controller of RUDN University ebike.
 
 --------------
 

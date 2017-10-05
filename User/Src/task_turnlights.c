@@ -1,3 +1,7 @@
+/***********************************
+ * @authon Roman Shcheglov
+ * @email roman.shcheglov@gmail.com
+ ***********************************/
 #include "FreeRTOS.h"
 #include "task.h"
 #include "stm32f1xx_hal.h"
